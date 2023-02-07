@@ -6,6 +6,7 @@
     <ul>
       <li>mastodon <a rel="me" href="https://mstdn.id/@erawan">@erawan</a></l>
       <li>nostr npub18x8nxl4px9lrtgqqc46xrk48v8vjeraur06xs6r84peats66ef3s8v3tua</li>
+      <li>"identities": [{"type": "github", "claim": "erawan", "proof": "https://github.com/erawanarifn"}]</li>
     </ul>
   </li>
   <li>✨ Website : https://erawanarifnugroho.com</li>
